@@ -60,7 +60,7 @@ Interface Scale=Velikost rozhraní
 VSync=VSync
 Camera Bobbing=Houpání pohledu
 Display Mode=Režim zobrazení
-Fullscreen Window=Okno bez okraju
+Fullscreen Window=Okno bez okrajů
 Apply Settings=Potvrdit změny
 Revert=Vrátit
 Keep settings?=Ponechat nastavení?
@@ -307,7 +307,7 @@ Category=Kategorie
 Customize Appearance=Upravit Vzhled
 RV=Karavan
 Move Custom Amount=Přesunout po kusech
-STREET RAT I=STREET RAT I
+STREET RAT I=POULIČNÍ KRYSA I
 Products Sold=Podukty Prodány
 Choose who to summon=Vyber si, komu zavolat
 Lights=Osvětlení
@@ -383,7 +383,7 @@ Move All=Přesunout vše
 Facial Details=Detaily obličeje
 Hair=Vlasy
 Insert \nmixer=Vložit \npřísadu
-Unlocks at Street Rat II=Odemkne se na Street Rat II
+Unlocks at Street Rat II=Odemkne Pouliční krysa II
 Body Search=Prohledávání
 Eyebrow Thickness=Tloušťka obočí
 Upper Eyelid Resting Position=Pozice horních víček
@@ -397,11 +397,11 @@ DRY=   SUŠIT
 r:"^(\d{1,2})h (\d{1,2})m until next tier$"=$1h $2m do další úrovně
 r:"^(\d{1,2})m until next tier$"=$1m na další úroveň
 I'm Stuck=Jsem zaseknutej
-Cart=Vozík
+Cart=Košík
 END OF THE LINE=KONEC ŘÁDKU
 Waking up at=Vzbudit se v
 Bug Report/Feedback=Nahlášení bugu / Zpětná vazba
-Lab Oven=Laboratorní trouba
+Lab Oven=<size\=12>Laboratorní trouba</size>
 Ingredient is not cookable=Přísada se nedá vařit
 Submit Feedback=Vložit Zpětnou vazbu
 Game=Hra
@@ -430,7 +430,7 @@ Sandals=Sandále
 Hiking Boots=Turistické boty
 Peaked=Klasický sestřih
 Balding=Balding
-Messy Bob=Messy Bob
+Messy bob=Dlouhé neupravené
 Low Bun=Low Bun
 Fringe Bob=Mikádo s ofinou
 Long Curly=Dlouhé kudrnaté
@@ -443,17 +443,17 @@ Liquid Meth=Tekutý Metamfetamin
 DEPOSIT=VLOŽIT
 WITHDRAW=VYBRAT
 MESSAGE=ZPRÁVA
-Plastic Pot=Plastový květináč
+Plastic Pot=<size\=11>Plastový květináč</size>
 Add to Cart=Přidat
 Soil=Zemina
-Fertilizer=Fertilizer
+Fertilizer=Hnojivo
 Speed Grow=<size\=12>Urychlovač růstu</size>
 PGR=PGR
-Grow Tent=Pěstovní stan
-Suspension Rack=Stojan na zavěšení
+Grow Tent=Pěstební stan
+Suspension Rack=<size\=11>Stojan na zavěšení</size>
 Suspension Rack is supporting another item=Stojan na zavěšení podporuje další položku
-Halogen Grow Light=Halogenové Osvětlení
-LED Grow Light=LED Osvětlení
+Halogen Grow Light=<size\=12>Halogenové světlo</size>
+LED Grow Light=LED světlo
 Watering Can=Konev
 Plant Trimmers=Nůžky
 Baggie=Pytlík
@@ -529,7 +529,7 @@ Hyland Manor=Hyland Panství
 Docks \nWarehouse=Dokové \nSkladiště
 Randy's\nBait & Tackle=Randyho\nnávnady a vybavení
 Suburbia Park=Suburbia Park
-Dan's\nHardware=Danovo Domácí potřeby
+Dan's\nHardware=Danovy Domácí potřeby
 Chinese \nRestaurant=Čínská \nrestaurace
 Motel=Motel
 Thompson\nConstruction & Demo=Společnost\n"Thompson\nConstruction"
@@ -550,13 +550,13 @@ Arcade=Arcade
 Basketball\nCourt=Basketbalový\nKurt
 Sauerkraut\nSupreme="Sauerkraut\n Supreme"\nPizzerie
 Dealer Management=Správa Dealerů
-Cut=Střih
+Cut=Podíl
 Inventory=Inventář
 r:Assigned Customers \((\d+\/\d+)\)=Přiřadit zákazníky ($1)
 Assign Customer=    Přiřadit zákazníka
 Customer Name=Jméno Zákazníka
 Deliveries=Dodávky
-General (legal) supplies=Obecné (legální) zásoby
+General (legal) supplies=Obecní (legální) tovar
 Item Total=Celkem
 Delivery Fee=Poplatek
 Destination=Destinace
@@ -567,7 +567,7 @@ Gas-Mart (West)=Benzínka "Gas-Mart" (Západní)
 Ingredients and packaging=Složení a balení
 Gas-Mart (Central)=Benzínka "Gas-Mart" (Centrální)
 Oscar's Store=Oskarův Obchod
-General illegal supplies=Obecné (nelegální) zásoby
+General illegal supplies=Obecní (nelegální) tovar
 Weed Seeds=Semínka trávy
 Order Submitted=Odeslaná objednávka
 Active Deliveries=Aktivní dodávky
@@ -710,7 +710,7 @@ Completed=Dokončeno
 Show on map=Ukázat na mapě
 Yep=Jasně
 Moderate standards.=Mírné standardy.
-Yes=Fajn
+Yes=Ano
 Loyal=Loajální
 You can complete deals any time within the window you choose. For now, choose the morning window.=Dealy můžeš dokončit kdykoliv v rámci zvoleného času. Teď si vyber ráno.
 r:(.*), Behind gas station=$1, Za benzínkou
@@ -760,8 +760,11 @@ Very nice. My friend Chelsey might like your stuff. Go check her out.=Skvěle. M
 Thank you. You should go talk to Chelsey - I think they'll like your stuff=Díky. Měl bys s ní promluvit - Myslím si že se jí tvoje matro bude líbit.
 Open the contacts app=Otevři Kontakty
 Use ATM=Použij bankomat
-Can I interest you in a free sample?=Měla bys zájem o vzorek zdarma?
+Can I interest you in a free sample?=Nemáš zájem o vzorek zdarma?
 Give Free Sample=Dát vzorek zdarma
+OFFENSE NOTICE=ZÁZNAM O PŘESTUPKU
+You have been convicted of the following:=Byls obviněn z následujíchího:
+Penalty:=Pokuta:
 sr:"^(.+)'s favourite effects:$"=oblíbený efekt $1:
 sr:"^Place a product here for (.+) to try$"=<size\=12>Vlož produkt zde pro $1 zkoušku(а)</size>
 Let's see...=Ukaž...
@@ -827,7 +830,7 @@ The law will be your foremost obstacle. You'll have to deal with patrols, body s
 Talk to Nelson's contact=Promluv s kontaktem strýčka Nelsona
 What do you want?=Co chceš?
 I'm here for Nelson's package=Jsem tu pro Nelsonův balíček
-Oh yeah? And you gonna pay for it?=Oh ano? A budeš za to platit?
+Oh yeah? And you gonna pay for it?=Jo? A budeš za to platit?
 It's already paid for=Prej nic platit nemusím.
 No it ain't. Infact, ol' Nellie already owes us some serious cash...=Nemusíš jo? Ve skutečnosti nám starý Nellie už dluží pořádný prachy...
 Lucky for you, he's been good on his word so far. But you let him know he better close that tab real soon...=Máš štěstí, že zatím vždy dodržel své slovo. Ale dej mu vědět, že by měl tu sekyru brzy splatit...
@@ -994,7 +997,7 @@ Ryan Brown=Ryan Brown
 Ryan=Ryan
 Scott Wright=Scott Wright
 Scott=Scott
-Oscar=Oscar
+Oscar=Oskar
 Igor=Igor
 Manny=Manny
 Herbert Bleuball=Herbert Bleuball
@@ -1193,7 +1196,7 @@ Glowing=Zářící
 
 ##INTERVALY##
 
-Morning=Brýráno
+Morning=Ráno
 6AM-12PM=06:00-12:00
 Afternoon=Odpoledne
 12PM-6PM=12:00-18:00
@@ -1562,7 +1565,7 @@ You got it?=Máš to?
 Ooooh yeah=Faaaaakt jo
 Lets get this over with=Pojďme to mít za sebou
 Nice=Fajn
-Don't worry about it=Neměj obavy
+Don't worry about it=Nech to být
 Very nice!=Hodně dobrý!
 Sweet as my man=Super, kámo!
 Come on, let's do do this=Pojďme na to!
@@ -1802,28 +1805,28 @@ r:"^Block Boss ([IVX]+)$"=Pouliční šéf $1
 r:"^Underlord ([IVX]+)$"=Autorita $1
 r:"^Baron ([IVX]+)$"=Baron $1
 r:"^Kingpin ([IVX]+)$"=Escobar $1
-r:"^Unlocks at <color\=#2DB92D>Street Rat ([IVX]+)</color>$"=<size\=11>Odemkne se na <color\=#2DB92D>Pouliční kryse $1</color></size>
-r:"^Unlocks at <color\=#2DB92D>Hoodlum ([IVX]+)</color>$"=<size\=10>Odemkne se na <color\=#2DB92D>Gangsterovi $1</color></size>
-r:"^Unlocks at <color\=#2DB92D>Peddler ([IVX]+)</color>$"=<size\=11>Odemkne se na <color\=#2DB92D>Překupníkovi $1</color></size>
-r:"^Unlocks at <color\=#2DB92D>Hustler ([IVX]+)</color>$"=<size\=9>Odemkne se na <color\=#2DB92D>Hustlerovi $1</color></size>
-r:"^Unlocks at <color\=#2DB92D>Enforcer ([IVX]+)</color>$"=<size\=9>Odemkne se na <color\=#2DB92D>Vykonavateli $1</color></size>
-r:"^Unlocks at <color\=#2DB92D>Bagman ([IVX]+)</color>$"=<size\=11>Odemkne se na <color\=#2DB92D>Zprostředkovateli $1</color></size>
-r:"^Unlocks at <color\=#2DB92D>Shot Caller([IVX]+)</color>$"=<size\=9>Odemkne se na <color\=#2DB92D>Organizátorovi $1</color></size>
-r:"^Unlocks at <color\=#2DB92D>Block Boss ([IVX]+)</color>$"=<size\=9>Odemkne se na <color\=#2DB92D>Pouličním šéfovi $1</color></size>
-r:"^Unlocks at <color\=#2DB92D>Underlord ([IVX]+)</color>$"=<size\=9>Odemkne se na <color\=#2DB92D>Autoritě $1</color></size>
-r:"^Unlocks at <color\=#2DB92D>Baron ([IVX]+)</color>$"=<size\=9>Odemkne se na <color\=#2DB92D>Baronovi $1</color></size>
-r:"^Unlocks at <color\=#2DB92D>Kingpin ([IVX]+)</color>$"=<size\=9>Odemkne se na <color\=#2DB92D>Escobarovi $1</color></size>
-r:"^Unlocks at Street Rat ([IVX]+)$"=Odemkne se na Pouliční kryse $1
-r:"^Unlocks at Hoodlum ([IVX]+)$"=Odemkne se na Gangsterovi $1
-r:"^Unlocks at Peddler ([IVX]+)$"=Odemkne se na Překupníkovi $1
-r:"^Unlocks at Hustler ([IVX]+)$"=Odemkne se na Hustlerovi $1
-r:"^Unlocks at Enforcer ([IVX]+)$"=Odemkne se na Vykonavateli $1
-r:"^Unlocks at Bagman ([IVX]+)$"=Odemkne se na Zprostředkovateli $1
-r:"^Unlocks at Shot Caller ([IVX]+)$"=Odemkne se na Organizátorovi $1
-r:"^Unlocks at Block Boss ([IVX]+)$"=Odemkne se na Pouličním šéfovi $1
-r:"^Unlocks at Underlord  ([IVX]+)$"=Odemkne se na Autoritě $1
-r:"^Unlocks at Baron ([IVX]+)$"=Odemkne se na Baronovi $1
-r:"^Unlocks at Kingpin ([IVX]+)$"=Odemkne se na Escobarovi $1
+r:"^Unlocks at <color\=#2DB92D>Street Rat ([IVX]+)</color>$"=<size\=11>Odemkne <color\=#2DB92D>Pouliční krysa $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Hoodlum ([IVX]+)</color>$"=<size\=10>Odemkne <color\=#2DB92D>Gangster $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Peddler ([IVX]+)</color>$"=<size\=11>Odemkne <color\=#2DB92D>Překupník $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Hustler ([IVX]+)</color>$"=<size\=9>Odemkne <color\=#2DB92D>Hustler $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Enforcer ([IVX]+)</color>$"=<size\=9>Odemkne <color\=#2DB92D>Vykonavatel $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Bagman ([IVX]+)</color>$"=<size\=11>Odemkne <color\=#2DB92D>Zprostředkovatel $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Shot Caller([IVX]+)</color>$"=<size\=9>Odemkne <color\=#2DB92D>Organizátor $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Block Boss ([IVX]+)</color>$"=<size\=9>Odemkne <color\=#2DB92D>Pouliční šéf $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Underlord ([IVX]+)</color>$"=<size\=9>Odemkne <color\=#2DB92D>Autorita $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Baron ([IVX]+)</color>$"=<size\=9>Odemkne <color\=#2DB92D>Baron $1</color></size>
+r:"^Unlocks at <color\=#2DB92D>Kingpin ([IVX]+)</color>$"=<size\=9>Odemkne <color\=#2DB92D>Escobar $1</color></size>
+r:"^Unlocks at Street Rat ([IVX]+)$"=Odemkne Pouliční krysa $1
+r:"^Unlocks at Hoodlum ([IVX]+)$"=Odemkne Gangster $1
+r:"^Unlocks at Peddler ([IVX]+)$"=Odemkne Překupník $1
+r:"^Unlocks at Hustler ([IVX]+)$"=Odemkne Hustler $1
+r:"^Unlocks at Enforcer ([IVX]+)$"=Odemkne Vykonavatel $1
+r:"^Unlocks at Bagman ([IVX]+)$"=Odemkne Zprostředkovatel $1
+r:"^Unlocks at Shot Caller ([IVX]+)$"=Odemkne Organizátor $1
+r:"^Unlocks at Block Boss ([IVX]+)$"=Odemkne Pouliční šéf $1
+r:"^Unlocks at Underlord  ([IVX]+)$"=Odemkne Autorita $1
+r:"^Unlocks at Baron ([IVX]+)$"=Odemkne Baron $1
+r:"^Unlocks at Kingpin ([IVX]+)$"=Odemkne Escobar $1
 r:"^AVAILABLE AT PEDDLER ([IVX]+)$"=DOSTUPNÉ NA PŘEKUPNÍKOVI $1
 r:"^AVAILABLE AT ENFORCER ([IVX]+)$"=DOSTUPNÉ NA VYKONAVATELI $1
 r:"^AVAILABLE AT HUSTLER ([IVX]+)$"=DOSTUPNÉ NA HUSTLEROVI $1
@@ -1838,18 +1841,18 @@ r:"^I need to collect the earnings <color\=#54E717>\(\$(\d{1,3}(?:,\d{3})*)\)</c
 I need to trade some items=Potřebuju prohodit pár věcí
 Place <color\=#4CB0FF>packaged product</color> here and the dealer will sell it to assigned customers=Umísti <color\=#4CB0FF>zabalený produkt</color> sem a dealer ho prodá přiděleným zákazníkům.
 Use the <color\=#88CBFF>dealer management app</color> to assign customers to dealers.=Použij <color\=#88CBFF>aplikaci pro správu dealerů</color> k přiřazení zákazníků jednotlivým dealerům.
-Thanks boss=Díky šéfef
+Thanks boss=Díky šéfe
 
 ##RAY##
 
 Hey there, what can I do for you?=Zdravíčko, co pro vás mohu udělat?
 I'd like to purchase a business=Chtěl bych zakoupit firmu
-I'd like to purchase a property=Chtěl bych zakoupit pozemek
+I'd like to purchase a property=Chtěl bych zakoupit nemovitost
 Great idea! Which business are you interested in?=Skvělý nápad! O jakou firmu máte zájem?
 The Laundromat=Prádelna
 The Post Office=Pošta
 The Car Wash=Automyčka
-That's great to hear. Which property are you interested in?=To je skvělé slyšet! Jaký pozemek váš zaujal?
+That's great to hear. Which property are you interested in?=To je skvělé slyšet! Jaká nemovitost vás zaujala?
 The Docks Warehouse=Skladiště v docích
 The Barn=Stodola
 The Bungalow=Bungalov
@@ -1956,7 +1959,7 @@ Cruiser=Cruiser
 Lightweight Skateboard=Lehký skate
 Skateboard=Skateboard
 Cheap Skateboard=Levný Skateboard
-Properties for sale=Pozemky na prodej
+Properties for sale=Nemovitosti na prodej
 Employee of \nthe month=Zaměstnanec\nměsíce
 Cheap Skateboard\n$75=<size\=7>Levný Skateboard\n$75</size>
 TOWN   SQUARE=<size\=4>NÁMĚSTÍ</size>
@@ -1987,7 +1990,7 @@ Head=Hlava
 Handbrake=Ruční brzda
 PUSH=TLAČIT
 Dealer=Dealer
-r:"(?s)^(.*)Property(.*)$"=$1Pozemek$2
+r:"(?s)^(.*)Property(.*)$"=$1Nemovitost$2
 r:([0-9]+) Customers\n([0-9]+) Suppliers\n([0-9]+) Dealer=$1 Zákazníci\n([0-9]+) Dodavatelé\n([0-9]+) Dealer
 BET MULTIPLIER=NÁSOBIT SÁZKY
 Headlights=Světla
@@ -2039,21 +2042,22 @@ High-Quality Pseudo=Vysoká kvalita Pseudo
 Spiky=Na ježka
 Afro=Afro
 High Bun=Vysoký drdol
+High bun=Vysoký drdol
 Double Top Knot=Dva drdoly
 Side-part Bob=Boční mikádo
 Acid=Kyselina
 Phosphorus=Fosfor
 Long-Life Soil=<size\=12>Dlouhoživá půda</size>
 Extra Long-Life Soil=<size\=11>Extra dlouhouživá půda</size>
-Moisture-Preserving Pot=Květináč zadržující vlhkost
-Air Pot=Provzdušňovací květináč
-Full Spectrum Grow Light=Světlo pro růst s plným spektrem
+Moisture-Preserving Pot=<size\=11>Zadržovací květináč</size>
+Air Pot=<size\=11>Provzdušňovací květináč</size>
+Full Spectrum Grow Light=<size\=11>Plnospekrální světlo</size>
 Pot Sprinkler=<size\=11>Zavlažovač květináče</size>
 Soil Pourer=Sypač půdy
-Packaging Station Mk II=Balící stanice Mk II
+Packaging Station Mk II=<size\=12>Balící stanice Mk II</size>
 Brick Press=Lis na cihly
-Mixing Station Mk2=Míchací stanice Mk2
-Chemistry Station=Alchymický stůl
+Mixing Station Mk2=<size\=11>Míchací stanice Mk2</size>
+Chemistry Station=<size\=12>Chemická stanice</size>
 Smug=Pyšný
 Agitated=Vzteklý
 Cuke=Cola
@@ -2101,16 +2105,16 @@ Moving Up=Postupovat
 Needin' the Green=Potřebovat peníze
 Clean Cash=Čisté prachy
 Welcome to Hyland Point=Vítej v Hyland Pointu
-Welcome to Hyland Point.\n\nThis is our territory.\nDon't interfere.\n\n-TB=Buď vítán v Hyland Pointu.\n\nToto je naše území.\nNevměšuj se.\n\n-TB
 You haven't recruited any dealers=Nepřijal jsi žádné dealery
 Player Name=Jméno Hráče
 Drop=Přistát
 SCORE=SKÓRE
 HIGH SCORE=NEJVYŠŠÍ SKÓRE
-EGG RUN=Vejcoběh
+EGG RUN=VEJCOBĚH
 Start=Začít
 Snake=Had
-Egg Run=Vajčný Útěk
+Egg Run=Vejcoběh
+Noodle=Nudle
 Ctrl=Ctrl
 Pong=Ping-Pong
 Open your phone (press Tab) and read your messages=Otevři svůj telefon (stiskni Tab) a přečti si své zprávy
@@ -2166,7 +2170,7 @@ Complete your first deal=Dokonči svůj první deal
 Buy and place another grow tent=Kup a umístni další stany na pěstování
 Offer a free sample to a potential customer=Nabídni vzorek zdarma potenciálním zákazníkům
 r:Complete 3 deals (.*)\/(.*)=Dokonči 3 dealy $1/$2
-Purchase a lab oven from Oscar=Kup si laboratorní troubu od Oscara
+Purchase a lab oven from Oscar=Kup si laboratorní troubu od Oskara
 Cook liquid meth at the chemistry station=Uvař tekutý meth na chemický stanici.
 Bake the liquid meth with the lab oven=Upeč tekutý meth v laboratorní troubě
 Assign a station to the chemist=Přiřaď stanici chemikovi
@@ -2231,7 +2235,7 @@ Use the laundering station to start a new laundering operation=Použij pračku p
 Wait for the laundering operation to complete=Počkej až se ti vyperou peníze
 Go to your new business=Běž do své nové firmy
 Greetings mate, welcome to Hyland Auto. Come talk to me if you're interested in acquiring one of my fine automobiles.=Zdravíčko, vítejte v Hyland Autosalonu. Pokud máte zájem o některý z našich krásných vozidel, přijďte zamnou.
-Welcome to Hyland Auto. What can I do for you?=Vítejte v Hyland Autosalonu. Co pro vás mohu udělat?
+Welcome to Hyland Auto. What can I do for you?=Vítejte. Co pro vás mohu udělat?
 Bye=Nashle
 I'd like to purchase a vehicle=Chtěl bych zakoupit vozidlo
 Fantastic! Which model are you interested in?=Fantistický! A jaký model se vám zamlouvá?
@@ -2262,7 +2266,7 @@ Answer phone=Přijmout hovor
 Goddamn, good to hear your voice, buddy! Looks like our luck finally ran out - the feds have got me locked up while I wait for a trial. Glad to hear you managed to slip out, though.=Sakra, rád tě slyším kluku! Vypadá to, že nás konečně opustilo štěstí - federálové mě zavřeli, zatímco čekám na soud. Ale jsem rád, že se ti podařilo vyklouznout.
 Back before I moved to Serena Flats, I used to live out there in Hyland Point. Not the nicest town around, but plenty of opportunity for a dru-... someone in your line of work.=Než jsem se přestěhoval do Serena Flats, bydlel jsem v Hyland Pointu. Nebylo to nejhezčí město v okolí, ale spousta příležitostí pro dro-... něco ve tvém oboru.
 If memory serves, I've got some cash stashed out there. It ain't much, but it'll be enough to get you back on your feet.=Pokud mě paměť neklame, mám tam schované nějaké peníze. Není to moc, ale bude to stačit, aby ses postavil na nohy.
-You can find it stashed near the <color\=#4CB0FF>town hall fountain, in the canal,</color> and <color\=#4CB0FF>behind the supermarket</color>. Go grab it, head back to the RV, and we'll go from there.=Najdeš je schovaný u <color\=#4CB0FF>radnický fontány, v kanálu,</color> a <color\=#4CB0FF>za supermarketem.</color> Vezmi si je, vrať se do karavanu a dostaň se odtamtuď.
+You can find it stashed near the <color\=#4CB0FF>town hall fountain, in the canal,</color> and <color\=#4CB0FF>behind the supermarket</color>. Go grab it, head back to the RV, and we'll go from there.=Najdeš je schovaný u <color\=#4CB0FF>radnický fontány, v kanálu,</color> a <color\=#4CB0FF>za supermarketem.</color> Vezmi si je, vrať se do karavanu a vypadni odtamtuď.
 • Collect the stash behind the supermarket=• Vyber zásoby za supermarketem
 • Collect the stash near the fountain=• Vyber zásoby u fontány
 • Collect the stash near the canal=• Vyber zásoby v kanále
@@ -2332,7 +2336,7 @@ Drug dealer=Drogovej dealer
 I work in agriculture=Pracuju s agrikultuře
 Oh ain't that nice, I always fancied a bit of gardening myself. Here's some SpeedGrow on the house. Welcome to Hyland Point.=Ó, to je milé, vždycky jsem měl rád trošku zahradničení. Tady máš trochu Urychlovače růstu na účet podniku. Vítej v Hyland Pointu!
 Thanks=Díky
-Haha good one partner. Tell you what, take some SpeedGrow on the house - them 'Marijuana' plants will love it.=Haha, dobrý chlape. Víš co, vezmi si trochu Urychlovače růstu na účet podniku – ty 'Marihuanové' kytky to určitě ocení.
+Haha good one partner. Tell you what, take some SpeedGrow on the house - them 'Marijuana' plants will love it.=Haha, dobrý chlape. Hele, vem si trochu Urychlovače růstu na účet podniku. Marihuanové kytky to určitě ocení.
 Thanks...=Umm...Díky...
 Oh sorry partner, didn't mean to pry. I'll let you be on your way...=Omlouvám se pane, nemyslel jsem to zle.
 Much appreciated.=Oceňuji to.
@@ -2346,16 +2350,16 @@ You're almost ready to go, but you're missing one key ingredient - <color\=#4CB0
 You'll need to speak to a supplier to get your hands on some seeds. I've passed your number onto <color\=#4CB0FF>Albert Hoover</color> - the local weed seed supplier.=Budeš muset pokecat s dodavatelem, abys získal semínka. Dal jsem tvoje číslo <color\=#4CB0FF>Albertovi Hooverovi</color> — je to lokální dodavatel semínek trávy.
 Send him a <color\=#4CB0FF>message</color> and request a <color\=#4CB0FF>dead drop</color>. I've vouched for you so you won't have to pay up front. Your order will go on your tab, which you can pay off in the future.=Pošli mu <color\=#4CB0FF>zprávu</color> a požádej ho o <color\=#4CB0FF>dead drop</color>. Doporučil jsem tě, takže nebudeš muset platit předem. Tvoje objednávka půjde na tvůj účet, který můžeš splatit v budoucnu.
 Send Message=Poslat zprávu
-Send me a message if you'd like to order some. Nelson has put in a good word for you, so I'll provide you a tab which you can pay off later.=Pošli mi zprávu, pokud si chceš něco objednat. Nelson o tobě mluvil v dobrém, takže ti poskytnu platit na dluh, který můžeš později splatit.
+Send me a message if you'd like to order some. Nelson has put in a good word for you, so I'll provide you a tab which you can pay off later.=Pošli mi zprávu, pokud si chceš něco objednat. Nelson o tobě mluvil v dobrém, takže můžeš platit na dluh, který později splatíš.
 Hello, our mutual friend has asked me to help you acquire some Marijuana seeds.=Čau, náš společný přítel mě požádal, abych ti pomohl získat semínka trávy.
 I want to pay off my debt=Chci splatit svůj dluh
 I need to order a dead drop=Potřebuju objednat dead drop
 Cancel=Zrušit
 Insufficient online balance=Nedostatek online zůstatku
 You can pay off your debt by placing cash in my stash. It's behind Dan's Hardware.=Můžeš splatit svůj dluh tím, že vložíš hotovost do mé schránky. Je to za Dan's Hardware.
-Unlocks at Hoodlum IV=Odemkne se na Gangster IV
-Unlocks at Hoodlum II=Odemkne se na Gangster II
-Unlocks at Street Rat IV=Odemkne se na Pouliční krysa IV
+Unlocks at Hoodlum IV=Odemkne Gangster IV
+Unlocks at Hoodlum II=Odemkne Gangster II
+Unlocks at Street Rat IV=Odemkne Pouliční krysa IV
 Select items to order from Albert=Vyber předměty k objednání od Alberta
 Select items to order from Salvador=Vyber předměty k objednání od Salvadora.
 Albert Hoover's Stash=Albertova Schránka
@@ -2440,7 +2444,7 @@ Hold still while I search you=Stůj klidně, zatímco tě prohledám.
 On your way.=Pokračuj dál.
 Thank you.=Díky.
 You've finished a few deals and made some decent cash, but if you're looking to make real money, you'll need to expand your operations - more <color\=#4CB0FF>product</color> and more <color\=#4CB0FF>customers</color>.=Už jsi uzavřel pár kšeftů a vydělal slušný prachy, ale jestli chceš vydělat opravdový peníze, budeš muset rozšířit svoji klientelu - více <color\=#4CB0FF>zboží</color> více <color\=#4CB0FF>zákazníků</color>.
-The best way to gain new customers is to give a <color\=#4CB0FF>free sample</color> to a friend of an existing customer.=ejlepší způsob, jak získat nové zákazníky, je dát <color\=#4CB0FF>vzorek zdarma</color> někomu, kdo je známý tvého stávajícího zákazníka.
+The best way to gain new customers is to give a <color\=#4CB0FF>free sample</color> to a friend of an existing customer.=Nejlepší způsob, jak získat nové zákazníky, je dát <color\=#4CB0FF>vzorek zdarma</color> někomu, kdo je známý tvého stávajícího zákazníka.
 You can view all potential customers on your <color\=#4CB0FF>map</color>. Grab some weed and give them a <color\=#4CB0FF>free sample</color>. With a bit of luck, they'll agree to become a customer.=Všechny potenciální zákazníky si můžeš prohlédnout na své <color\=#4CB0FF>mapě</color>. Vezmi trochu trávy a dej jim <color\=#4CB0FF>vzorek zdarma</color>. S trochou štěstí souhlasí a stanou se tvými zákazníky.
 To keep up with more customers, you'll need more product. The motel room isn't gonna cut it for much longer - time for an upgrade.=Abys stíhal více zákazníků, budeš potřebovat více produktu. Motelový pokoj ti v budoucnu nebude stačit - je čas na upgrade.
 There's a cheap room for sale above the Chinese restaurant just north of your motel room. Save <color\=#4CB0FF>$800</color>, then go ask about buying the room.=Nad čínskou restaurací, přímo na sever od tvého motelového pokoje, je k mání levný pokoj. Ušetři <color\=#4CB0FF>$800</color>, a pak se zajdi zeptat na koupi toho pokoje.
@@ -2493,7 +2497,7 @@ CUSTOMER ALREADY HAS A PENDING OFFER=ZÁKAZNÍK JIŽ ČEKÁ NA NABÍDKU
 r:"^<color\=#54E717>(\+\$\d+)</color> Quick Delivery Bonus$"=<color\=#54E717>$1</color> Bonus za rychlé doručení.
 • Talk to Mrs. Ming at the Chinese restaurant=• Promluv si s paní Ming v čínské restauraci
 Pick up Baseball Bat=Seber baseballovou pálku.
-Metal bat made for whacking baseballs, but also works pretty well as a blunt weapon.=Metalová pálka určená na odpálení baseballových míčků, ale také funguje docela dobře jako tupá zbraň.
+Metal bat made for whacking baseballs, but also works pretty well as a blunt weapon.=Kovová pálka určená na odpálení baseballových míčků, ale také funguje docela dobře jako tupá zbraň.
 • Purchase the room above the Chinese Restaurant=• Kup pokoj nad čínskou restaurací.
 I'd like to buy the room=Rád bych koupil pokoj
 Oh yes very good! <color\=#54E717>$800</color> for room, yes?=No jasně! <color\=#54E717>$800</color> za pokoj, že?
@@ -2517,7 +2521,7 @@ Okay. I'll be next to the mayor's house for the next 6 hours.=Okay. Budu u staro
 Okay. I'll be in the west construction for the next 6 hours.=Okay. Budu na západní stavbě následujících 6 hodin.
 Okay. I'll be under the north end of the overpass for the next 6 hours.=Okay. Budu pod severním koncem nadjezdu následujících 6 hodin.
 Okay. I'll be in the west construction site for the next 6 hours.=Okay. Budu na západním staveništi následujících 6 hodin.
-Hello sir. Ready to peruse the supplies?=Dobrý den, pane. Jste připraven prozkoumat zásoby?
+Hello sir. Ready to peruse the supplies?=Dobrý den. Připraven prozkoumat zásoby?
 Hey - ready to take a peek at the supplies?=Zdravím, jsi připraven se podívat na zásoby?
 Insufficient cash. Visit an ATM to withdraw cash.=Nedostatek hotovosti. Navštiv bankomat, abys vybral hotovost.
 Good doing business with you, sir.=Bylo mi potěšením obchodovat s vámi, pane.
@@ -2531,11 +2535,12 @@ Picking Objects Up=Zvedání objektů
 Recruit and manage your first dealer to handle distribution for you.=Najmi a spravuj svého prvního dealera, který se postará o distribuci za tebe.
 r:"^(\+\d+) more$"=$1 více
 You've got a decent base of operations and a growing customer base. You'll be pulling in some proper cash now, but you'll need help to manage all your customers.=Máš solidní základnu a počet rostoucích zákazníků. Teď začneš vydělávat pořádné peníze, ale budeš potřebovat pomoc při obsluhování těch tvých zákazníků.
-sr:"Time to think about recruiting a <color\=#4CB0FF>dealer</color>. There's a guy... hmm... <color\=#4CB0FF>(.+)</color> his name is, I think. He'll be the first dealer you can work with.$"=Je čas začít přemýšlet o najmutí <color\=#4CB0FF>dealera</color>. Je tu jeden chlápek... hmm... myslím, že se jmenuje <color\=#4CB0FF>$1</color>. Bude to první delaer, se kterým můžeš spolupracovat."
+*sr:"Time to think about recruiting a <color\=#4CB0FF>dealer</color>. There's a guy... hmm... <color\=#4CB0FF>(.+)</color> his name is, I think. He'll be the first dealer you can work with.$"=Je čas začít přemýšlet o najmutí <color\=#4CB0FF>dealera</color>. Je tu jeden chlápek... hmm... myslím, že se jmenuje <color\=#4CB0FF>$1</color>. Bude to první delaer, se kterým můžeš spolupracovat."
 sr:"You won't be able to hire a dealer until one of their friends has recommended you. Benji is friends with <color\=#4CB0FF>Peggy, Beth,</color> and <color\=#4CB0FF>(.+)</color>. Focus on selling to them until one of them recommends you.$"=Než budeš moci najmout dealera, někdo z jeho přátel tě musí doporučit. Benji je přítel <color\=#4CB0FF>Peggy, Beth</color> a <color\=#4CB0FF>(.+)</color>. Soustřeď se na prodej jim, dokud tě některý z nich nedoporučí.
 Ok no problem=Ok žádnej problém
 K=K
 Ok then=Dobrá tedy
+Place lid on jar=Uzavři sklenici víkem
 North arcade wall=Severní stěna Arcadu
 on the north exterior wall of the arcade=Na severní venkovní stěně Arcadu.
 Nvm dog=Zapomeň na to kámo
@@ -2545,7 +2550,7 @@ Cool=Dobrý
 Yeah?=Fakt?
 An uplifting yet easy-going strain with mild cerebral effects.=Pozitivní a zároveň uvolňující odrůda s mírnými cerebrálními účinky.
 r:"^(\d+) hrs$"=$1 hodin
-r:"^(\d+)h$"=$1 hodina
+r:"^(\d+)h$"=$1 hodin
 r:"^(\d+) min$"=$1 minut
 r:UNLOCK ONE OF (.*)'S CONNECTIONS FIRST=NEJDŘÍVE ODEMKNI SPOJENCE
 r:REACH 'FRIENDLY' WITH ONE OF (.*)'S CONNECTIONS=ZÍSKEJ 'PŘÁTELSKÝ' VZTAH S KONTAKTEM
@@ -2553,27 +2558,33 @@ Hey there - what can I do for you?=Čau, co pro tebe můžu udělat?
 I'd like a hair cut=Rád bych se nechal ostříhat.
 Hex Value=Hex Množství
 APPLY=POUŽÍT
-BUY=KOUPIT
+BUY=<size\=12>KOUPIT</size>
 R=R
 G=G
 B=B
 Receding=Plešatý šik
-Side part bob=krátký účes s lehce zaoblenými konečky
+Side part bob=Dlouhé zatočené
 Shoulder length=Vlasy na úrovni ramen
-Monk=Monk
+Monk=Mnich
 Buzz Cut=Sestřih strojkem
+Buzz cut=Sestřih strojkem
 Mid fringe=Střední ofina
 The Franklin=Franklin
 Bowl Cut=Na kastrol
+Bowl cut=Na kastrol
 Long Curly=Dlouhé kudrnaté
+Long curly=Dlouhé kudrnaté
 Free=Volně
 High Bun=Vysoký drdol
 Bun=Drdol
 Fringe Ponytail=Cop s ofinou
+Fringe ponytail=Cop s ofinou
 Double Top Knot=Dva drdoly nahoře
-Messy Bob=Dlouhé
+Double top knot=Dva drdoly nahoře
+Messy Bob=Dlouhé neupravené
 Low Bun=Nízký drdol
-Mohawk=Mohawk
+Low bun=Nízký drdol
+Mohawk=Číro
 PREVIEW=NÁHLED
 Damn=Sakra
 Come on...=No tak...
@@ -2628,7 +2639,7 @@ Mixing in progress...=Probíhá míchání...
 r:"^Market Value: <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>$"=Tržní hodnota: <color\=#54E717>$1$</color>
 Collect output=Vyber výstup
 Recipe(s)=Recept(y)
-That's your first mix done! There's a wide range of different <color\=#4CB0FF>ingredients</color> with <color\=#4CB0FF>unique effects</color>. Each one will affect the value of your product differently.=To je tvoje první směs hotová! Existuje široká škála různých <color\=#4CB0FF>ingrediencí</color> s <color\=#4CB0FF>unikátními účinky</color>. Každá z nich ovlivní hodnotu tvého produktu jinak.
+That's your first mix done! There's a wide range of different <color\=#4CB0FF>ingredients</color> with <color\=#4CB0FF>unique effects</color>. Each one will affect the value of your product differently.=Tvoje první směs je hotová! Existuje široká škála různých <color\=#4CB0FF>ingrediencí</color> s <color\=#4CB0FF>unikátními účinky</color>. Každá z nich ovlivní hodnotu tvého produktu jinak.
 Keep trying different mix recipes, and you'll be able to make some seriously valuable product.=Pokračuj v zkoušení různých receptů na směsi a budeš schopný vytvořit opravdu cenný produkt.
 You know everything you need to get yourself established. I'll call you later when you're ready to start manufacturing some harder stuff...=Víš vše, co potřebuješ k tomu, abys se prosadil. Zavolám ti později, až budeš připraven začít vyrábět silnější věci...
 • Talk to the mechanic=• Promluv si s  mechanikem
@@ -2667,7 +2678,7 @@ It's the big brick building behind the liquor store. Head down there and see if 
 Acquaint yourself with the inhabitants of the warehouse, the local place of business for people in your line of work.=Seznam se s lidma ze skladiště, místního obchodního místa pro lidi ve tvém oboru.
 Can I come in?=Můžu dovnitř?
 Reach the rank of <color\=#88CBFF>Hoodlum V</color> to access this area.=Dosáhni úrovně <color\=#88CBFF>Gangster V</color>, abys mohl vstoupit do této oblasti.
-Who the hell are you? Get lost.=Kdo do prdele jsi? Vypadni odsaď.
+Who the hell are you? Get lost.=Kdo do prdele jsi? Vypadni.
 Unpackaged items won't fit!=Rozbalené předměty se nevejdou!
 Alleyway behind Slop Shop=Ulička za Slop Shopem.
 in the alleyway behind Slop Shop (the diner)=V uličce za Slop Shopem (dinerem).
@@ -2709,9 +2720,9 @@ Already contains PGR=Již obsahuje PGR
 Apply Speed Grow=Použít роста
 r:Cover soil with Speed Grow (.*)=Pokrop zeminu Speed Growem $1
 Already contains Speed Grow=Již obsahuje Speed Grow
-Apply Fertilizer=Použít Fertilizer
-r:Cover soil with Fertilizer (.*)=Pokrop zeminu Fertilizerem $1
-Already contains Fertilizer=Již obsahuje Fertilizer
+Apply Fertilizer=Použít Hnojivo
+r:Cover soil with Fertilizer (.*)=Pokrop zeminu Hnojivem $1
+Already contains Fertilizer=Již obsahuje Hnojivo
 Only open after 6PM=Otevřeno pouze po 18:00
 View Cart (3 items)=Zobrazit košík (3 položky)
 Does not match type requirement=Nesplňuje požadovaný typ
@@ -2763,8 +2774,8 @@ Not again...=Ne zase...
 r:"Insert <color\=#FFC73D>(\d+x)</color> coca leaves and <color\=#FFC73D>(\d+x)</color> gasoline"=Vlož <color\=#FFC73D>$1</color> coca listy a <color\=#FFC73D>$2</color> benzín
 Use Cauldron=Použij kotel
 Use Brick Press=Použij lis na cihly
-You're welcome friend. If you need special equipment or supplies, Oscar has what you need.=Není zač, příteli. Pokud potřebuješ speciální vybavení nebo zásoby, Oscar má to, co potřebuješ.
-You’re welcome friend. If you need special equipment or supplies, Oscar has what you need.=Není zač, příteli. Pokud potřebuješ speciální vybavení nebo zásoby, Oscar má to, co potřebuješ.
+You're welcome friend. If you need special equipment or supplies, Oscar has what you need.=Není zač, příteli. Pokud potřebuješ speciální vybavení nebo zásoby, Oskar má, co potřebuješ.
+You’re welcome friend. If you need special equipment or supplies, Oscar has what you need.=Není zač, příteli. Pokud potřebuješ speciální vybavení nebo zásoby, Oskar má, co potřebuješ.
 You've reached your ATM daily deposit limit. If you want to convert more cash to online balance, you'll need to start laundering cash through a business.=Dosáhl jsi denního limitu vkladu na bankomatu. Pokud chceš převést více hotovosti na online zůstatek, budeš muset začít prát peníze skrze podnik.
 INVENTORY FULL=PLNÝ INVENTÁŘ
 Classic double-kick popsicle skateboard. Use it to get around faster than on-foot.=Klasický skateboard s dvojitým kickem. Použij ho k rychlejšímu pohybu než pěšky.
@@ -2829,8 +2840,8 @@ Revolver Cylinder=Revolver zásobník
 Cheapass 6-shot revolver probably made by communists in the 70s. Needs to be manually cocked before each shot.=Levný 6raný revolver pravděpodobně vyrobený komunisty v 70. letech. Každý výstřel je nutné ručně natáhnout.
 Big sharp machete.		=Velká ostrý mačeta.		
 Contains 6 rounds for the Revolver.=Obsahuje 6 nábojů pro revolver.
-Oscar says thanks=Oscar děkuje
-Hehe Oscar was just joking. If you need special equipment or supplies, Oscar has what you need.=Hehe, Oscar si jen dělal legraci. Pokud potřebuješ speciální vybavení nebo zásoby, Oscar má to, co potřebuješ.
+Oscar says thanks=Oskar děkuje
+Hehe Oscar was just joking. If you need special equipment or supplies, Oscar has what you need.=Hehe, Oskar si jen dělal legraci. Pokud potřebuješ speciální vybavení nebo zásoby, Oskar má to, co potřebuješ.
 STOP=ZASTAV
 r:"^([0-9]+) mins left$"=$1 zbývá minut
 7-round magazine for the M1911 handgun.=7-nábojový zásobník pro pistoli M1911
@@ -2846,23 +2857,25 @@ r:Start burner (.*)=Zapni hořák $1
 Cooking in progress...=Probíhá vaření...
 We Need To Cook=Musíme vařit
 You're not going to get too far if you're only pushing weed. Time to move onto something a bit harder.=Nepůjdeš daleko, pokud budeš prodávat jen trávu. Je čas přejít na něco trochu silnějšího.
-Oscar will sell everything you need to make meth, with the exception of <color\=#4CB0FF>pseudo</color>. For that, you're gonna need to hook yourself up with a supplier.=Oscar ti prodá všechno, co potřebuješ na výrobu pervitinu, kromě <color\=#4CB0FF>pseudo</color>. Na to si budeš muset sehnat dodavatele.
+Oscar will sell everything you need to make meth, with the exception of <color\=#4CB0FF>pseudo</color>. For that, you're gonna need to hook yourself up with a supplier.=Oskar ti prodá všechno, co potřebuješ na výrobu pervitinu, kromě <color\=#4CB0FF>pseudo</color>. Na to si budeš muset sehnat dodavatele.
 I don't know any pseudo suppliers, so you're on your own for this one. There ought to be someone in <color\=#4CB0FF>Westville</color> that can get you what you need.=Neznám žádné dodavatele pseudo, takže to budeš muset zvládnout sám. Měl by tam být někdo ve <color\=#4CB0FF>Westville</color> kdo ti může sehnat, co potřebuješ.
 Open up your contacts app and look for a supplier in Westville. Keep unlocking customers in that region, and you'll get their attention in no time.=Otevři si kontakty a podívej se po dodavateli ve Westville. Pokračuj v odemykání zákazníků v té oblasti, a brzy přitáhneš jejich pozornost.
 • Unlock the pseudo supplier in Westville (see contacts app for more info)=• Odemkni dodavatele pseudo ve Westville (pro více informací se podívej do kontaktů)
-• Purchase a chemistry station from Oscar=• Koupit chemickou stanici od Oscara
-• Purchase a lab oven from Oscar=• Koupit laboratorní troubu od Oscara
+• Purchase a chemistry station from Oscar=• Koupit chemickou stanici od Oskara
+• Purchase a lab oven from Oscar=• Koupit laboratorní troubu od Oskara
 • Message Shirley about buying some pseudo=• Napiš Shirley zprávu ohledně koupě pseudo
-• Purchase phosphorus from Oscar=• Kup fosfor od Oscara
-• Purchase acid from Oscar=• Kup kyselinu od Oscara
+• Purchase phosphorus from Oscar=• Kup fosfor od Oskara
+• Purchase acid from Oscar=• Kup kyselinu od Oskara
 Unlock the pseudo supplier in Westville (see contacts app for more info)=Odemkni dodavatele pseudo ve Westville (pro více informací se podívej do kontaktů)
-Purchase a chemistry station from Oscar=Koupit chemickou stanici od Oscara
-Purchase a lab oven from Oscar=Koupit laboratorní troubu od Oscara
+Purchase a chemistry station from Oscar=Koupit chemickou stanici od Oskara
+Purchase a lab oven from Oscar=Koupit laboratorní troubu od Oskara
 Message Shirley about buying some pseudo=Napiš Shirley zprávu ohledně koupě pseudo
-Purchase phosphorus from Oscar=Kup fosfor od Oscara
-Purchase acid from Oscar=Kup fosfor od Oscara
+Purchase phosphorus from Oscar=Kup fosfor od Oskara
+Purchase acid from Oscar=Kup fosfor od Oskara
 No, not right now=Ne, teď ne.
-Thanks for shopping with Oscar=Děkuji, že nakupuješ u Oscara
+No, not right now, Broskies=Ne, teď ne, brácho.
+Gross!=Hnus!
+Thanks for shopping with Oscar=Děkuji, že nakupuješ u Oskara
 Hey there=Čau
 No thanks bro=Ne díky brácho
 Goddamn, that's nice!! I'll message you later=Kurva, to je dobrý!! Napíšu ti později.
@@ -2877,13 +2890,14 @@ SAMPLE ALREADY OFFERED TODAY=VZOREK UŽ BYL DNES NABÍDNUT
 Ew, no.=Ew, ne.
 One moment bro...=Moment kámo...
 Not yet=Ještě ne
-Mornin' dude=Raníčko chlape
+Mornin' dude=Ránko chlape
 Heyo=Ahoj
 Argh! That's nasty=Arghh! To je hnusný
+Arghh fine. What time?=Arghh fajn. V kolik?
 Ok...=Ok...
 Come on, I need it now!=Notak, potřebuju to hned!
 Ready yet??=Už je to připravený?
-Ready??=Připravený??
+Ready??=Máš to?
 Please tell me you're ready...=Prosím, řekni mi, že to máš připravený...
 Goddammit!!=Ksakru!!
 Piss off!=Zmiz!
@@ -2991,30 +3005,30 @@ Excellent choice, Sir=Skvělý výběr pane
 Bleuball's Boutique=Bleuballova Butika
 Total:=Celkem:
 Enter text...=Введите текст...
-Wooden Sign=Dřevěná cedulka
+Wooden Sign=<size\=13>Dřevěná cedulka</size>
 A wall-mounted wooden sign that you can write on.=Dřevěná nástěnná cedule, na kterou můžeš psát.
 Metal Sign=Kovová cedulka
 A wall-mounted metal sign that you can write on.=Kovová nástěnná cedule, na kterou můžeš psát.
 Your Message Here=Tvoje zpráva zde
 Edit message=Uprav zprávu
 Edit Sign Message=Upravit zprávu na cedulce
-Wall-Mounted Shelf=Nástěnná polička
+Wall-Mounted Shelf=<size\=12>Nástěnná polička</size>
 A 2-tier wall-mounted shelf which you can place items on.=Dvou řádková nástěnná polička, na kterou můžeš umístit předměty.
-Antique Wall Lamp=Antická stěnná lampa
+Antique Wall Lamp=Antická lampa
 An antique lamp that can be placed on walls. Can't be used to grow plants, but it's great for lighting.=Antická lampa, kterou lze umístit na zeď. Není vhodná pro pěstování rostlin, ale skvélá pro osvětlení.
 An antique lamp that can be placed on walls. Can't be used to grow plants, but it's great for seeing stuff.=Antická lampa, kterou lze umístit na zeď. Není vhodná pro pěstování rostlin, ale skvélá pro osvětlení vašeho pokoje.
-Modern Wall Lamp=Moderní stěnná lampa
+Modern Wall Lamp=Moderní lampa
 A minimalist lamp that can be placed on walls. Can't be used to grow plants, but it's great for lighting.=Minimalistická lampa, kterou lze umístit na stěnu. Není vhodná pro pěstování rostlin, ale je skvělá pro osvětlení.
 A minimalist lamp that can be placed on walls. Can't be used to grow plants, but it's great for seeing stuff.=Minimalistická lampa, kterou lze umístit na stěny. Není vhodná pro pěstování rostlin,  ale skvélá pro osvětlení vašeho pokoje.
 Grandfather Clock=Velké hodiny
 Antique grandfather clock made of walnut wood and trimmed with gold.=Antické velké hodiny vyrobené z ořechového dřeva a zdobené zlatem.
 Ol' Man Jimmy's=Ol' Man Jimmy's
 Aged Tennessee Whisky of the finest quality.=Zrálá Tennessee whisky té nejvyšší kvality.
-Château La Peepee=Château La Peepee
+Château La Peepee=<size\=12>Château La Peepee</size>
 Extremely rare Château La Peepee 1969 Cabernet Sauvignon.=Extrémně vzácné Château La Peepee 1969 Cabernet Sauvignon.
 Brut du Gloop=Brut du Gloop
 Fancy French Champagne in a gold-plated bottle.=Luxusní francouzské šampaňské ve zlatem pokovené láhvi.
-Silver Watch=Stříbrné hodinky
+Silver Watch=<size\=12>Stříbrné hodinky</size>
 Solid silver wrist watch to tastefully display your mild affluence.=Hodinky ze solidního stříbra, které vkusně ukazují vaši mírnou zámožnost.
 Gold Watch=Zlaté hodinky
 Solid gold wrist watch to tastefully display your wealth.=Hodinky ze solidního zlata, které vkusně ukazují vaše bohatství.
@@ -3033,15 +3047,15 @@ Open safe=Otevřít trezor
 Safe=Trezor
 Access safe=Přístup k trezoru
 A big metal safe to store all your fancy stuff in.=Velký kovový trezor na ukládání všech vašich luxusních věcí.
-Artwork (Beach Day)=Umění (Den na pláži)
+Artwork (Beach Day)=<size\=11>Umění (Den na pláži)</size>
 A fun day at the beach for everyone.=Zábavný den na pláži pro všechny.
 Artwork (Menace)=Umění (Hrozba)
 Some people just can't be reasoned with...=S některými lidmi se prostě nedá domluvit...
-Artwork (Offer)=Umění (Nabídka)
+Artwork (Offer)=<size\=13>Umění (Nabídka)</size>
 It's always nice to help a friend in need.=Vždy je hezké pomoci příteli v nouzi.
 Artwork (Lines)=Umění (Čáry)
 What does it all mean?=Co to všechno znamená?
-Artwork (Rapscallion)=Umění (Nekňuba)
+Artwork (Rapscallion)=<size\=13>Umění (Nekňuba)</size>
 This guy seems enthusiastic.=Tento chlapík vypadá nadšeně.
 Artwork (Millie)=Umění (Millie)
 A very good girl.=Velmi hodná dívka.
@@ -3052,12 +3066,12 @@ Out of stock=Není skladem
 
 What?=co??
 Oh yeah, boss man told me about you. Come in.=Jo, šéf mi o tobě říkal. Pojď dovnitř.
-Melee weapons - blunt and sharp, and of course, firearms. Ammo too. I get more stuff in stock every now and then.=Zbraňový arsenál - tupé a ostré, a samozřejmě i střelné zbraně. Munice také. Občas dostanu nové věci na sklad.
+Melee weapons - blunt and sharp, and of course, firearms. Ammo too. I get more stuff in stock every now and then.=Zbraňový arsenál - tupé a ostré, a samozřejmě i střelné zbraně. Munici také. Občas dostanu nové věci na sklad.
 Are these weapons legal?=Jsou tyto zbraně legální?
 Yeahhhh, more or less. Most of them are probably not completely non-illegal… what’re you askin' for anywho?=Jasněěě, no víceméně. Většina z nich asi nebude úplně legální... co vlastně chceš?
 sr:"That'll be <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color> for the (.+)\. We got a deal, partner\?"=To bude <color\=#54E717>$1$</color> za $2. Dohodnuto, parťáku?
 I'm looking for some weaponry.=Hledám nějaké zbraně.
-Evenin' partner, what can I do you for?=Dobrý večerě parťáku, co pro tebe můžu udělat?
+Evenin' partner, what can I do you for?=Večír parťáku, co pro tebe můžu udělat?
 Good idea my friend. What are you after?=Dobrá myšlenka, příteli. Co hledáš?
 Ammo=Náboje
 Ranged=Na dálku
@@ -3080,11 +3094,11 @@ Alright then. You know where to find me if you change your mind.=Dobře. Víš, 
 Thank you partner. =Díky parťáku. 
 Hello there, you smell nice...=Čau, voníš pěkně...
 Piss off=Vypadni
-Hehe nothing... just Oscar being friendly. If you need special equipment or supplies, Oscar has what you need.=Hehe, v klidu... jen Oscar je přátelský. Pokud potřebuješ speciální vybavení nebo zásoby, Oscar má, co potřebuješ.
+Hehe nothing... just Oscar being friendly. If you need special equipment or supplies, Oscar has what you need.=Hehe, v klidu... jen Oskar je přátelský. Pokud potřebuješ speciální vybavení nebo zásoby, Oskar má, co potřebuješ.
 What sort of stuff do you sell?=Co za věci prodáváš?
-Oscar sells special equipment and supplies.=Oscar prodává speciální vybavení a zásoby.
+Oscar sells special equipment and supplies.=Oskar prodává speciální vybavení a zásoby.
 Yeah okay thanks...=Jasně, díky...
-You're welcome friend. If you need special equipment or supplies, Oscar has what you need.=Není zač, příteli. Pokud potřebuješ speciální vybavení nebo zásoby, Oscar má, co potřebuješ.
+You're welcome friend. If you need special equipment or supplies, Oscar has what you need.=Není zač, příteli. Pokud potřebuješ speciální vybavení nebo zásoby, Oskar má, co potřebuješ.
 Evenin' there, what can I do for ya?=Dobrý večer, co pro tebe můžu udělat?
 A common ingredient used in a chemistry station.=Běžná ingredience používaná v chemické stanici.
 Common chemical ingredient in powder form. Used in matches and meth.=Běžná chemická ingredience v práškové formě. Používá se v zápalkách a metamfetaminu.
@@ -3099,7 +3113,7 @@ Fancy hand woven fabric pot that keeps roots ventilated. Boosts plant growth spe
 Very fancy full-spectrum grow light. Stimulates plant growth 30% faster than halogen. Must be placed on a suspension rack.=Velmi elegantní plnospektrální růstové světlo. Stimuluje růst rostlin o 30 % rychleji než halogenové. Musí být umístěno na zavěšeném stojanu.
 You the new guy in town?	=Ty jsi ten nový v městě?	
 Probably=Pravděpodobně
-Haha very cute. I’m Manny. I’m the local fixer. You looking to hire workers, you talk to me.=Haha, velmi roztomilé. Jsem Manny. Jsem místní zprostředkovatel. Pokud chceš najmout pracovníky, mluv se mnou.
+Haha very cute. I’m Manny. I’m the local fixer. You looking to hire workers, you talk to me.=Haha, rozkošné. Jsem Manny, místní zprostředkovatel. Pokud chceš někoho najmout, mluv se mnou.
 How much does it cost to hire someone?=Kolik stojí najmutí někoho?
 Depends on what sort of talent you need. Cleaners and Packagers are pretty cheap, Botanists a bit more, and Chemists are the most expensive.=Záleží na tom, jaký druh talentu potřebuješ. Čističi a baliči jsou docela levní, botanici o něco dražší a chemici jsou nejdražší.
 Evening. What do you need?=Dobrý večer. Co potřebuješ?
@@ -3112,8 +3126,8 @@ Handler (packaging, moving items)=Balič (balí produkty, přesouvá věci)
 Chemist (chemistry station, lab oven, cauldron, mixing station)=Chemik (vaří produkty, spravuje kotel, troubu a míchací stanice)
 Where you do want them? Keep in mind you'll have to provide a bed for this employee.=Kam je chceš umístit? Měj na paměti, že pro tohoto zaměstnance budeš muset zajistit postel.
 sr:"^That'll be a <color\=#54E717>\$(\d{1,3}(?:,\d{3})?)</color> signing free, and the employee's daily wage will be <color\=#54E717>\$(\d{1,3}(?:,\d{3})*)</color>\.$"=To bude <color\=#54E717>$1$</color> poplatek za přijetí a denní mzda zaměstnance bude <color\=#54E717>$2$</color>.
-Cheers. I'll send your new employee over to your property now. I'm also giving you a clipboard, which you can use to manage your employees and equipment.=Díky. Pošlu tvého nového zaměstnance rovnou na tvůj pozemek. Taky ti dám desky s papírem, který můžeš použít k spravování zaměstnanců.
-Cheers. I'll send your new employee over to your property now.=Díky. Tvého nového zaměstnance pošlu rovnou na tvůj pozemek.
+Cheers. I'll send your new employee over to your property now. I'm also giving you a clipboard, which you can use to manage your employees and equipment.=Díky. Pošlu tvého nového zaměstnance rovnou do tvé nemovitosti. Taky ti dám desky s papírem, který můžeš použít k spravování zaměstnanců.
+Cheers. I'll send your new employee over to your property now.=Díky. Tvého nového zaměstnance pošlu rovnou do tvé nemovitosti.
 r:EMPLOYEE LIMIT REACHED (.*)\/(.*)=PŘEKROČEN LIMIT ZAMĚSTNANCŮ $1/$2
 Good. I’m Manny. I’m the local fixer. You looking to hire workers, you talk to me.=Já jsem Manny. Místní zprostředkovatel. Když sháníš pracovníky, mluv se mnou.
 Alright then, fuck off.=Tak jo, tak táhni do háje.
@@ -3122,14 +3136,14 @@ Alright then, fuck off.=Tak jo, tak táhni do háje.
 
 Employees=Zaměstnanci
 Cleaners=Uklízeč
-• Pick up trash\n\n• Bag full trash \n  cans\n\n• Dispose of full \n  trash bags=• Sbírá odpadky\n\n• Vyměňuje pytle v \n  plném koši\n\n• Vyhazuje plné pytle \n s odpadky
+• Pick up trash\n\n• Bag full trash \n  cans\n\n• Dispose of full \n  trash bags=• Sbírá odpadky\n\n• Vyměňuje pytle\nv plném koši\n\n• Vyhazuje plné\npytle s odpadky
 Handlers=Baliči
 • Package product\n\n• Transport items\n  between stations,\n  storage racks,\n  loading bays, etc.=• Balení produktu\n\n• Přesouvá \n předměty
 Botanists=Botanista
 • Sow seeds\n\n• Water plants\n\n• Apply additives\n\n• Harvest plants\n\n• Use drying racks=• Zasívá semínka\n\n• Zalévá rostliny\n\n• Aplikuje přísady\n\n• Sklízí rostliny\n\n• Používá sušáky
 Chemists=Chemik
 • Use chemistry \n  stations\n\n• Use lab ovens\n\n• Use cauldrons\n\n• Use mixing stations=• Používá chemické \n  stanice\n\n• Používat lab\n  pece\n\n• Používá kotle\n\n• Používá míchací \n stanice
-Daily wage:=/n Denní mzda:
+Daily wage:=Mzda/den:
 
 Management Clipboard=Manažerský desky
 Clipboard used to manage equipment and employees.=Desky používaný k řízení vybavení a zaměstnanců.
@@ -3302,6 +3316,7 @@ Use your management clipboard to assign a destination for each of my pots, and m
 (Charcoal)=(Uhelně černá)
 (DarkGrey)=(Tmavě šedá)
 (LightGrey)=(Světle šedá)
+(Rolled)=(Vyhrnuté rukávy)
 White=Bílá
 HotPink=Neonově růžová
 BrightPink=Světle růžová
@@ -3337,15 +3352,16 @@ Thanks for your purchase!=Děkujeme za nákup!
 
 Headwear=Pokrývka hlavy
 Eyewear=Brýle
-Outerwear=Svrchní oblečení
-Top=Vrchní část
+Outerwear=Svrchní
+Top=Top
 Waist=Pas
 Bottom=Dolní část
 
 V-Neck=Výstřih
 Shoes=Boty
-V-Neck Shirt=Tričko s výstřihem
-Shirt with a v-shaped neck.=Tričko v výstřihem do V
+V-Neck Shirt=<size\=12>Tričko s výstřihem</size>
+sr:"V-Neck Shirt (.+)$"=Tričko s výstřihem $1
+sr:"Shirt with a v-shaped neck (.+)$.=Tričko v výstřihem do V $1
 sr:"Vest (.+)$"=Vesta $1
 Vest=Vesta
 Warm chest, cold arms.=Teplá hruď, studené ruce.
@@ -3357,7 +3373,7 @@ Tactical Vest=Taktická Vesta
 sr:"Tactical Vest (.+)$"=Taktická Vesta $1
 Very tough looking vest. It doesn't actually block bullets, though.=Velmi tvrdě vypadající vesta. Nezastaví však skutečně kulky.
 SpeedDealerShades=Brýle Speed Dealer
-Speed Dealer Shades=Brýle Speed Dealer
+Speed Dealer Shades=<size\=12>Brýle Speed Dealer</size>
 Speed Dealer Sunglasses=Sluneční brýle Speed Dealer
 sr:"Speed Dealer Shades (.+)$"=Brýle SpeedDealer $1
 Shady looking shades.=Podezřele vypadající brýle.
@@ -3365,7 +3381,7 @@ sr:"Sneakers (.+)$"=Tenisky $1
 Sneakers=Tenisky
 Laced sneakers.=Tenisky s tkaničkami.
 SmallRoundGlasses=Malé kulaté brýle
-Small Round Glasses=Malé kulaté brýle
+Small Round Glasses=<size\=12>Malé kulaté brýle</size>
 sr:"Small Round Glasses (.+)$"=Malé kulaté brýle $1
 For when you only want to use 20% of your vision.=Když chceš využít jen 20 % svého zrakového pole.
 sr:"Skirt (.+)$"=Sukně $1
@@ -3377,7 +3393,7 @@ sr:"Sandals (.+)$"=Sandále $1
 Sandals=Sandále
 Very stylish and versatile footwear.=Velmi stylová a všestranná obuv.
 RectangleFrameGlasses=Brýle s hranatýma rámečkama
-Rectangle Frame Glasses=Brýle s hranatýma rámečkama
+Rectangle Frame Glasses=<size\=11>Brýle s hranatýma rámečkama</size>
 Rectangular Frame Glasses=Brýle s obdélníkovýma rámečkama
 sr:"Rectangle Frame Glasses (.+)$"=Brýle s hranatýma rámečkama $1
 Rectangle frame glasses.=Brýle s hranatýma rámečkama.
@@ -3393,12 +3409,12 @@ Long Skirt=Dlouhá sukně
 sr:"Long Skirt (.+)$"=Dlouhá sukně $1
 Long tubular fabric. A truly racy garment if you're Mormon.=Dlouhý tubulární kus látky. Opravdu odvážný kousek oblečení, pokud jsi Morman.
 LegendSunglasses=Legendární sluneční brýle
-Legend Sunglasses=Legendární sluneční brýle
+Legend Sunglasses=<size\=12>Legendární brýle</size>
 sr:"Legend Sunglasses (.+)$"=Legendární sluneční brýle $1
 Sunglasses that can only be worn by legends.=Sluneční brýle, které mohou nosit pouze legendy.
 sr:"Jorts (.+)$"=Džínové šortky $1
 Jorts=Džínové šortky
-Abhorrent abomination.=Odporná abominace.
+Abhorrent abomination.=Odporná ohavnost.
 sr:"Jeans (.+)$"=Džíny $1
 Jeans=Džíny
 The classic pant.=Klasické kalhoty.
@@ -3417,7 +3433,7 @@ Flannel Shirt=Flanelka
 sr:"Flannel Shirt (.+)$"=Flanelka $1
 The shirt of choice for internet music critics.=Košile, kterou si vybírají internetoví hudební kritici.
 FingerlessGloves=Bezprsté rukavice
-Fingerless Gloves=Bezprsté rukavice
+Fingerless Gloves=<size\=12>Bezprsté rukavice</size>
 sr:"Fingerless Gloves (.+)$"=Bezprsté rukavice $1
 Fingerless gloves.=Bezprsté rukavice.
 DressShoes=Lakýrky
@@ -3425,7 +3441,7 @@ Dress Shoes=Lakýrky
 sr:"Dress Shoes (.+)$"=Lakýrky $1
 Fancy shiny dress shoes.=Elegantní lesklé formální boty.
 CowboyHat=Kovbojský klobouk
-Cowboy Hat=Kovbojský klobouk
+Cowboy Hat=<size\=12>Kovbojský klobouk</size>
 sr:"Cowboy Hat (.+)$"=Kovbojský klobouk $1
 Rootin' tootin' cowboy hat.=Klobouk pro pravého kovboje.
 CombatBoots=Bojové boty
@@ -3437,7 +3453,7 @@ Collar Jacket=Bunda s límcem
 sr:"Collar Jacket (.+)$"=Bunda s límcem $1
 Jacket with an upturned collar.=Bunda se zvednutým límcem.
 ChefHat=Kuchařská čepice
-Chef Hat=Kuchařská čepice
+Chef Hat=<size\=12>Kuchařská čepice</size>
 sr:"Chef Hat (.+)$"=Kuchařská čepice $1
 Traditional headwear for a Chef. Perfect for concealing a rodent in.=Tradiční pokrývka hlavy pro kuchaře. Perfektní na schování Ratatouilleho.
 CargoPants=Cargo kalhoty
@@ -3447,18 +3463,18 @@ Cargo pants with lots of pockets (decorative pockets).=Kapsáče s hromadou kape
 sr:"Cap (.+)$"=Čepice $1
 Cap=Čepice
 Classic and timeless cap.=Klasická a nadčasová kšiltovka.
-ButtonUp_Rolled=Košile s knoflíky, rukávy vyhrnuté.
+ButtonUp_Rolled=<size\=10>Košile s vyhrnutými rukávy</size>
 Button-Up Shirt=Košile s knoflíky
-Button-Up Shirt (Rolled)=Košile s knoflíky (s ohrnutými rukávy)
-sr:"Button-Up Shirt (Rolled) (.+)$"=Košile s knoflíky (s ohrnutými rukávy) $1
-A button-up shirt featuring permanently rolled sleeves.=Košile s knoflíky s trvale ohrnutými rukávy.
+Button-Up Shirt (Rolled)=<size\=11>Košile s vyhrnutými rukávy</size>
+A button-up shirt featuring permanently rolled sleeves.=Košile s knoflíky s trvale vyhrnutými rukávy.
 ButtonUp=Košile s knoflíky
-sr:"Button-Up Shirt (.+)$"=Košile s knoflíky $1
+sr:"Button-Up Shirt (.+) (.+)$"=Košile s knoflíky $1 $2
+sr:"Button-Up Shirt \(([A-Z][a-z]*)\)"=Košile s knoflíky ($1)
 Sophisticated choice for covering up your disgusting body.=Sofistikovaná volba pro zakrytí tvého nechutného těla.
-BucketHat=Bucket Hat
-Bucket Hat=Bucket Hat
-sr:"Bucket Hat (.+)$"=Bucket Hat $1
-Not actually shaped like a bucket.=Není skutečně ve tvaru kbelíku.
+BucketHat=Rybářský klobouk
+Bucket Hat=<size\=12>Rybářský klobouk</size>
+sr:"Bucket Hat (.+)$"=Rybářský klobouk $1
+Not actually shaped like a bucket.=Neudělá z tebe skutečného rybáře.
 sr:"Blazer (.+)$"=Blazer $1
 Blazer=Blazer
 Blazer/sports jacket/suit - who knows the difference.=Blazer/sportovní sako/oblek - kdo zná rozdíl.
